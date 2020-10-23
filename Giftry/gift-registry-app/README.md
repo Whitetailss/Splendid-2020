@@ -9,7 +9,7 @@ A simple gift registry web application built with NodeJS, Express, SASS
 
   - Event host can shop according to their occasion and create a customized gift list
   - Link to gift-list can be sent via WhatsApp to friends and family
-  - Event host can view the gift-list updated by friends and family
+  - Event host can view the gift-list updated by friends   and family
   
 ----------------------------------------------------------------------------------------  
 

@@ -7,6 +7,8 @@ const UserSerives = require('../services/UserServices')
 const knexFile = require('../knexfile').development;
 const knex = require('knex')(knexFile);
 
+//all routers
+
 const userservices = new UserSerives(knex);
 
 
